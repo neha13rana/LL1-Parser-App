@@ -1,4 +1,5 @@
-(L1,SLR1)Parser - Application
+## (L1,SLR1)Parser - Application
+
 ## 🔗 Live Demo
 
 Check out the Hugging Face app here:  
