@@ -1,4 +1,4 @@
-# (LL(1), SLR(1)) Parser - Application
+# LL(1), SLR(1) Parser - Application
 
 ## 🔗 Live Demo
 
