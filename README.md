@@ -39,15 +39,28 @@ This is a user-friendly **LL(1) and SLR(1) Parser Visualizer** built using **Pyt
 
 ## 🚀 Installation (Local)
 
-```bash
-git clone https://github.com/neha13rana/LL1-Parser-App.git
-cd LL1-Parser-App
-pip install -r requirements.txt
+Follow the steps below to set up the application locally:
 
-1) For LL1
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/neha13rana/Parser-LL1-SLR1-Application.git
+   cd Parser-LL1-SLR1-Application
+   ```
 
-streamlit run LL1.py
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-2) For SLR1
+3. Run the applications:
+   - **LL(1) Parser**:
+     ```bash
+     streamlit run LL1.py
+     ```
 
-streamlit run SLR1.py
+   - **SLR(1) Parser**:
+     ```bash
+     streamlit run SLR1.py
+     ```
+
+---
